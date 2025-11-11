@@ -1,0 +1,7 @@
+{
+  "SUPABASE_URL": "https://jzjxssbyqzhmkoijrxoa.supabase.co",
+  "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp6anhzc2J5cXpobWtvaWpyeG9hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjIyODg4NjIsImV4cCI6MjA3Nzg2NDg2Mn0.-xlbzKfE_zHbLKNQkW0_xM7vG985yTEngurTysr0PCo",
+  "DISCORD_CLIENT_ID": "1435645816328028282",
+  "DISCORD_CLIENT_SECRET": "s0ZvXZOQK4lG9qagD0hgcUdOoMsHiFXn",
+  "DISCORD_REDIRECT_URI": "http://127.0.0.1:57291/callback"
+}
