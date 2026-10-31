@@ -1,0 +1,30 @@
+{
+    "High Knights Gauntlet": [
+        {
+            "desc": "Gauntlet of a High-Ranking Knight",
+            "qty": 5,
+            "cat": "FIRST GAUNTLET",
+            "rank": "B",
+            "buff": {
+                "STRbuff": 2
+            },
+            "debuff": "",
+            "quest": true,
+            "Value": 2000,
+            "rarity": "Common"
+        }
+    ],
+    "Coin Bag 2000": [
+        {
+            "desc": "A bag of 2000-or-so coins",
+            "qty": 3,
+            "cat": "MONEY",
+            "rank": "C",
+            "buff": "",
+            "debuff": "",
+            "quest": true,
+            "rarity": "Common",
+            "Value": 2000
+        }
+    ]
+}

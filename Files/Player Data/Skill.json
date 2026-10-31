@@ -1,0 +1,150 @@
+{
+      "Dash": [
+            {
+                  "lvl": 1,
+                  "type": "Active",
+                  "desc": "Decreases Time based activities by 5% for each level. (Mana Cost: 250)",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 5,
+                        "Gauntlet of Lightning": 1
+                  }
+            },
+            {
+                  "Condition": [
+                        "AGI"
+                  ]
+            }
+      ],
+      "Strength Augmentation": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "You have a Greater Strength Augumentation than the Average Man",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Gauntlet of the Eternal Guardian": 1
+                  }
+            }
+      ],
+      "Exponential Strength": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "All Strength Gains are faster than they were before. Results show faster as well",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Amulet of Protection": 1
+                  }
+            }
+      ],
+      "Force of Speed": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "A certain Force of Speed has bonded with you. Your Agility will improve faster from this point",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Gauntlet of Lightning": 1
+                  }
+            }
+      ],
+      "Lightweight": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Your body will get lighter and nimble as you get faster",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Golden Boots of Agility": 1
+                  }
+            }
+      ],
+      "Quick Heal": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Your Body will heal itself quicker than normal and your pain reduces",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Gauntlet of Lightning": 1
+                  }
+            }
+      ],
+      "Detox": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Your body slowly but surely removes Toxins from the body the more VIT is increased",
+                  "pl_point": 0,
+                  "base": "STR",
+                  "rewards": {
+                        "STRav": 10,
+                        "Golden Boots of Agility": 1
+                  }
+            }
+      ],
+      "Charismatic Presence": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Your Charisma and Confidence draws people towards you",
+                  "pl_point": 0,
+                  "base": "INT",
+                  "rewards": {
+                        "INTav": 10,
+                        "High-Minister's Amulet": 1
+                  }
+            }
+      ],
+      "Rise": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "A unique ability to be a natural leader and have people rise to your aid",
+                  "pl_point": 0,
+                  "base": "INT",
+                  "rewards": {
+                        "INTav": 10,
+                        "Ring of Arcane Mastery": 1
+                  }
+            }
+      ],
+      "Heightened Perception": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Your keen eyes and senses allow you to capture everything that happens around you",
+                  "pl_point": 0,
+                  "base": "INT",
+                  "rewards": {
+                        "INTav": 10,
+                        "Chameleon Cloak": 1
+                  }
+            }
+      ],
+      "Puzzle Snap": [
+            {
+                  "lvl": 1,
+                  "type": "Job",
+                  "desc": "Even with limited information, You can puzzle together a full picture with limited information",
+                  "pl_point": 0,
+                  "base": "INT",
+                  "rewards": {
+                        "INTav": 10,
+                        "Ring of Arcane Mastery": 1
+                  }
+            }
+      ]
+}

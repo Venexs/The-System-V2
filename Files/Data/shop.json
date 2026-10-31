@@ -1,0 +1,331 @@
+{
+  "equipment": [
+    {
+      "name": "Mana Wraps",
+      "category": "HAND WRAPS",
+      "qty": 1,
+      "rank": "E",
+      "description": "A line of silk-like cloth enchanted with weak Mana. Increases Luck",
+      "buff": {
+        "MANbuff": 5
+      },
+      "debuff": {},
+      "value": 100
+    },
+    {
+      "name": "The Weakest Dagger",
+      "category": "DAGGER",
+      "qty": 1,
+      "rank": "E",
+      "description": "A Dagger, worn out and broken in its edges imbued with extremly low Mana",
+      "buff": {
+        "STRbuff": 1
+      },
+      "debuff": {},
+      "value": 90
+    },
+    {
+      "name": "Expensive Steel Sword",
+      "category": "SHORTSWORD",
+      "qty": 1,
+      "rank": "D",
+      "description": "A very normal Steel Sword with some Mana",
+      "buff": {
+        "STRbuff": 5
+      },
+      "debuff": {},
+      "value": 500
+    },
+    {
+      "name": "Dagger of Gold",
+      "category": "DAGGER",
+      "qty": 1,
+      "rank": "C",
+      "description": "A Dagger that only looks amazing yet it's use in combat is less than impressive",
+      "buff": {
+        "STRbuff": 10,
+        "AGIbuff": 7
+      },
+      "debuff": {},
+      "value": 15000
+    },
+    {
+      "name": "Old Mace",
+      "category": "GREATSWORD",
+      "qty": 1,
+      "rank": "D",
+      "description": "A Mace with some Mana in it. Increases Strength but reduces Speed",
+      "buff": {
+        "STRbuff": 10
+      },
+      "debuff": {
+        "AGIdebuff": 10
+      },
+      "value": 100
+    },
+    {
+      "name": "Kasaka's Venom Fang",
+      "category": "DAGGER",
+      "qty": 1,
+      "rank": "C",
+      "description": "A slightly worn out Dagger. Although its Mana level is weak, it seems to have once been in possesion of someone strong.",
+      "buff": {
+        "STRbuff": 20
+      },
+      "debuff": {
+        "MANdebuff": 15
+      },
+      "value": 30000
+    },
+    {
+      "name": "Knight Killer",
+      "category": "DAGGER",
+      "qty": 1,
+      "rank": "B",
+      "description": "A slightly worn out Dagger. Although its Mana level is weak, it seems to have once been in possesion of someone strong.",
+      "buff": {
+        "STRbuff": 20
+      },
+      "debuff": {},
+      "value": 100000
+    }
+  ],
+  "items": [
+    {
+      "name": "Normal Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 40 points of Fatigue",
+      "effect":{
+        "fatigue":40
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 100
+    },
+    {
+      "name": "Exclusive Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 100 points of Fatigue",
+      "effect":{
+        "fatigue":100
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 300
+    },
+    {
+      "name": "Heroic Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 500 points of Fatigue",
+      "effect":{
+        "fatigue":500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 1000
+    },
+    {
+      "name": "Knightly Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 750 points of Fatigue",
+      "effect":{
+        "fatigue":750
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 3000
+    },
+    {
+      "name": "Legendary Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 1000 points of Fatigue",
+      "effect":{
+        "fatigue":1000
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 5000
+    },
+    {
+      "name": "Divine Fatigue Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed reduces 2500 points of Fatigue",
+      "effect":{
+        "fatigue":2500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 10000
+    },
+
+    {
+      "name": "Normal Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 40 points of HP",
+      "effect":{
+        "hp":40
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 100
+    },
+    {
+      "name": "Exclusive Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 100 points of HP",
+      "effect":{
+        "hp":100
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 300
+    },
+    {
+      "name": "Heroic Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 500 points of HP",
+      "effect":{
+        "hp":500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 1000
+    },
+    {
+      "name": "Knightly Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 750 points of HP",
+      "effect":{
+        "hp":750
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 3000
+    },
+    {
+      "name": "Legendary Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 1000 points of HP",
+      "effect":{
+        "hp":1000
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 5000
+    },
+    {
+      "name": "Divine Healing Potion",
+      "category": "FATIGUE POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 2500 points of HP",
+      "effect":{
+        "hp":2500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 10000
+    },
+
+    {
+      "name": "Normal Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 40 points of MP",
+      "effect":{
+        "mp":40
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 100
+    },
+    {
+      "name": "Exclusive Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 100 points of MP",
+      "effect":{
+        "mp":100
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 300
+    },
+    {
+      "name": "Heroic Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 500 points of MP",
+      "effect":{
+        "mp":500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 1000
+    },
+    {
+      "name": "Knightly Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 750 points of MP",
+      "effect":{
+        "mp":750
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 3000
+    },
+    {
+      "name": "Legendary Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 1000 points of MP",
+      "effect":{
+        "mp":1000
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 5000
+    },
+    {
+      "name": "Divine Mana Potion",
+      "category": "MANA POTION",
+      "qty": 1,
+      "rank": "??",
+      "description": "A potion, when consumed increases 2500 points of MP",
+      "effect":{
+        "mp":2500
+      },
+      "buff": {},
+      "debuff": {},
+      "value": 10000
+    }
+  ]
+}

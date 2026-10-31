@@ -1,0 +1,46 @@
+{
+      "Rebirth of the Strong": [
+            {
+                  "ID": 0,
+                  "obj": "Get Strong",
+                  "rank": "?",
+                  "type": "Unknown",
+                  "desc": "Quest given by The Architect",
+                  "Rewards": {
+                        "LVLADD": 10
+                  }
+            }
+      ],
+      "Hero Challenge": [
+            {
+                  "desc": "Derek and Solar dare you to complete these tasks.",
+                  "time": 60,
+                  "timeval": "Seconds",
+                  "type": "Learn",
+                  "obj_desc": "Look up different Yoga positions and do them for given time",
+                  "rank": "E",
+                  "ID": 335475,
+                  "Rewards": {
+                        "Coin Bag 300": 1,
+                        "Coin Bag 100": 1
+                  },
+                  "skill": "Yoga"
+            }
+      ],
+      "The Limitless Technique": [
+            {
+                  "desc": "Sakurai gives clear instructions.",
+                  "time": 2,
+                  "timeval": "Minutes",
+                  "type": "Learn",
+                  "obj_desc": "Close your eyes and put on your headphones. Don't judge the music by its genre, title, or artist. Instead, allow yourself to get lost in the sound journey. Explore every aspect of the track, even if you don't like it at first. Listen to each instrument's dynamics separately and focus on the vocals, including tone and range.",
+                  "rank": "C",
+                  "ID": 493386,
+                  "Rewards": {
+                        "Coin Bag 5000": 1,
+                        "Assassins Shoes": 1
+                  },
+                  "skill": "Body Scan"
+            }
+      ]
+}

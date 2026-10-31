@@ -1,0 +1,86 @@
+{
+    "week_key": "2025-09-28",
+    "created_date": "2025-10-01 10:27:04",
+    "week_start": "2025-09-28",
+    "rank_items": {
+        "S": {
+            "Sovereign's Veil": {
+                "rarity": "Legendary",
+                "data": {
+                    "desc": "A hood worn only by the most powerful sorcerers and wizards, imbued with ancient magic.",
+                    "qty": 1,
+                    "cat": "HELM",
+                    "rank": "S",
+                    "buff": {
+                        "INTbuff": 30,
+                        "MANbuff": 25
+                    },
+                    "debuff": {
+                        "STRdebuff": 15,
+                        "AGIdebuff": 15
+                    },
+                    "quest": true,
+                    "Value": 150000,
+                    "rarity": "Legendary",
+                    "bought": false
+                }
+            }
+        },
+        "B": {
+            "High Knights Gauntlet": {
+                "rarity": "Common",
+                "data": {
+                    "desc": "Gauntlet of a High-Ranking Knight",
+                    "qty": 1,
+                    "cat": "FIRST GAUNTLET",
+                    "rank": "B",
+                    "buff": {
+                        "STRbuff": 2
+                    },
+                    "debuff": "",
+                    "quest": true,
+                    "Value": 1500,
+                    "rarity": "Common",
+                    "bought": true
+                }
+            }
+        },
+        "C": {
+            "Coin Bag 2000": {
+                "rarity": "Common",
+                "data": {
+                    "desc": "A bag of 2000-or-so coins",
+                    "qty": 1,
+                    "cat": "MONEY",
+                    "rank": "C",
+                    "buff": "",
+                    "debuff": "",
+                    "quest": true,
+                    "rarity": "Common",
+                    "Value": 1500,
+                    "bought": true
+                }
+            }
+        },
+        "D": {
+            "Ironclad Gauntlet": {
+                "rarity": "Rare",
+                "data": {
+                    "desc": "A sturdy gauntlet crafted from iron, offering a modest boost to vitality and endurance.",
+                    "qty": 1,
+                    "cat": "FIRST GAUNTLET",
+                    "rank": "D",
+                    "buff": {
+                        "VITbuff": 10
+                    },
+                    "debuff": {},
+                    "quest": true,
+                    "Value": 1125,
+                    "rarity": "Rare",
+                    "bought": false
+                }
+            }
+        }
+    },
+    "last_updated": "2025-10-01 11:44:17"
+}
